@@ -14,7 +14,7 @@ new Vue({
             name: "SPECIAL 17 AGUSTUS 2024",
             artist: "Dev By Khaerul",
             cover: 'ft2.jpg',
-            source: '1.M4A',
+            source: '1.m4a',
             url: "",
             favorited: true
           },
@@ -30,7 +30,7 @@ new Vue({
             name: "SPECIAL 17 AGUSTUS 2024",
             artist: "Dev By Khaerul",
             cover: 'ft3.jpg',
-            source: '3.M4A',
+            source: '3.m4a',
             url: "",
             favorited: true
           }
