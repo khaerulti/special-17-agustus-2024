@@ -14,7 +14,7 @@ new Vue({
             name: "SPECIAL 17 AGUSTUS 2024",
             artist: "Dev By Khaerul",
             cover: 'ft2.jpg',
-            source: 'https://youtu.be/Wftp6VnFBlU?si=Z6PZUoCGKoSNsqne',
+            source: '2.weba',
             url: "",
             favorited: true
           },
@@ -30,7 +30,7 @@ new Vue({
             name: "SPECIAL 17 AGUSTUS 2024",
             artist: "Dev By Khaerul",
             cover: 'ft3.jpg',
-            source: 'https://youtu.be/mXN4Q7WdJno?si=mo9ZGGYqB-7OF7Gl',
+            source: '2.weba',
             url: "",
             favorited: true
           }
